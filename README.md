@@ -1,4 +1,4 @@
-<p align="center"><img src="app/src/main/res/drawable/ic_logo.png" height="100" width="450"></p>
+<p align="center"><img src="back_start_game.png" height="100" width="450"></p>
 <br/>
 <h3 align="center">Android App</h3>
 <h1 align="center">Welcome To Happy-Hour!</h1>
