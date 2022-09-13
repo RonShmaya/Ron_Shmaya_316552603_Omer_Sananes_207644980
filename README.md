@@ -10,15 +10,13 @@
  - Creating some log file in the server, depended on the subject.
 
 <strong> Developing a game based on the doll scene from the squid games "Red Light Green Light" is the chosen subject. </strong> 
-<br/>
 
+<br/>
 ## :information_source: About 
 Squid Game is a South Korean survival drama television series created by Hwang Dong-hyuk for Netflix. 
 
 The series revolves around a contest where 456 players, all of whom are in deep financial hardship, risk their lives to play a series of deadly children's games for the chance to win a ₩45.6 billion (US$35 million, €33 million) prize. 
 <br/>
-
-
 
 ## :space_invader: Methods
 ### Private account
