@@ -2,7 +2,6 @@
 <br/>
 <h1 align="center">Welcome To Squid-Game!</h1>
 
----------------------------------------------------------------------------------------------------------------------
 ## :door: Project Requirements 
  - Devlop a Client Server infrastructure.
  - Choosing a subject for development which requires a multiple clients.
