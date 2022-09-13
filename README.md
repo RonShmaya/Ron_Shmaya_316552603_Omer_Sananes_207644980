@@ -10,8 +10,8 @@
  - Creating some log file in the server, depended on the subject.
 
 <strong> Developing a game based on the doll scene from the squid games "Red Light Green Light" is the chosen subject. </strong> 
-
 <br/>
+
 ## :information_source: About 
 Squid Game is a South Korean survival drama television series created by Hwang Dong-hyuk for Netflix. 
 
