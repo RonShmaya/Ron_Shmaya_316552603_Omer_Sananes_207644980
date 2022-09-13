@@ -1,6 +1,7 @@
 <p align="center"><img src="back_start_game.png" height="400" width="800"></p>
 <br/>
 <h1 align="center">Welcome To Squid-Game!</h1>
+
 ---------------------------------------------------------------------------------------------------------------------
 ## :door: Project Requirements 
  - Devlop a Client Server infrastructure.
