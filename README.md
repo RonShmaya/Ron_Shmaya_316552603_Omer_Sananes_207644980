@@ -1,6 +1,6 @@
-<p align="center"><img src="back_start_game.png" height="400" width="1000"></p>
+<p align="center"><img src="back_start_game.png" height="400" width="800"></p>
 <br/>
-<h1 align="center">Welcome To Squid-Games!</h1>
+<h1 align="center">Welcome To Squid-Game!</h1>
 
 
 ## :information_source: About 
