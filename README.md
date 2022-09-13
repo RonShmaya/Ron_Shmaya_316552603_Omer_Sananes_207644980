@@ -18,20 +18,26 @@ Squid Game is a South Korean survival drama television series created by Hwang D
 The series revolves around a contest where 456 players, all of whom are in deep financial hardship, risk their lives to play a series of deadly children's games for the chance to win a ₩45.6 billion (US$35 million, €33 million) prize. 
 <br/>
 
-## :space_invader: Methods
-### Private account
-- Find bars by their happy hours, their names, or the type of music they play.
-- Locate bars near you with Google Maps.
-- Make a reservation.
-- Exposure to bar posts.
-- Make like to posts.
-- Follow bars and get discount.
-- Write bar review.
-- Get lists of the best bars rank.
-- Choose your favorite bar types and get lists accordingly.
-- Get your orders list - Old orders are deleted from the server automatically.
-- Get your followers list.
+## :space_invader: Modules
+### client_server 
+<strong>Server:</strong>
+- Create server.
+- Connect server to network.
+- Open a connections for each client.
+- Create a different 'get thread' for each client (to avoid 'unblocking design' on the server side) and sharing the packets with all the clients.
+- Send packet to all clients.
+- Close server (will close all the clients). 
+- The Server have a "listener" (Known as: Design Pattern 'Observer' or Callback), In the case a packet received the listener will get packets & errores from server's threads.
+<br/>
+<strong>Client:</strong>
+- Connect client to network.
+- Create 'get thread' for getting server packets.
+- Send packet to Server.
+- Close. 
+- The Client have a "listener" (Known as: Design Pattern 'Observer' or Callback), In the case a packet received the listener will get packets & errores from client's threads.
+<br/>
 
+---------------------------------------------------------------------------------------------------------------------
 ### Business account
 - Create your own bars.
 - Upload posts.
