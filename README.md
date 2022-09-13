@@ -9,7 +9,7 @@
  - Creating GUI using python libaries.
  - Creating some log file in the server, depended on the subject.
 
-<strong> Developing a game based on the doll scene from the squid games "Red Light Green Light" is the chosen subject. </strong> 
+<strong> Developing a game based on the doll scene from squid game (known as "Red Light Green Light") is the chosen subject. </strong> 
 <br/>
 
 ## :information_source: About 
