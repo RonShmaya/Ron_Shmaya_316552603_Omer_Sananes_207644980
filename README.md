@@ -2,14 +2,7 @@
 <br/>
 <h1 align="center">Welcome To Squid-Game!</h1>
 
-
-## :information_source: About 
-Squid Game is a South Korean survival drama television series created by Hwang Dong-hyuk for Netflix. 
-
-The series revolves around a contest where 456 players, all of whom are in deep financial hardship, risk their lives to play a series of deadly children's games for the chance to win a ₩45.6 billion (US$35 million, €33 million) prize. 
-<br/>
-
-## :door: Requirements 
+## :door: Project Requirements 
  - Devlop a Client Server infrastructure.
  - Choosing a subject for development which requires a multiple clients.
  - Server controlling on the clients, create & close.
@@ -18,6 +11,14 @@ The series revolves around a contest where 456 players, all of whom are in deep 
 
 <strong> Developing a game based on the doll scene from the squid games "Red Light Green Light" is the chosen subject. </strong> 
 <br/>
+
+## :information_source: About 
+Squid Game is a South Korean survival drama television series created by Hwang Dong-hyuk for Netflix. 
+
+The series revolves around a contest where 456 players, all of whom are in deep financial hardship, risk their lives to play a series of deadly children's games for the chance to win a ₩45.6 billion (US$35 million, €33 million) prize. 
+<br/>
+
+
 
 ## :space_invader: Methods
 ### Private account
