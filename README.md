@@ -27,6 +27,7 @@ The series revolves around a contest where 456 players, all of whom are in deep 
 - Create a different 'get thread' for each client (to avoid 'unblocking design' on the server side) and sharing the packets with all the clients.
 - Send packet to all clients.
 - Close server (will close all the clients). 
+- Get the number of a "live clients".
 - The Server have a "listener" (Known as: Design Pattern 'Observer' or Callback), In the case a packet received the listener will get packets & errores from server's threads.
 <br/>
 
