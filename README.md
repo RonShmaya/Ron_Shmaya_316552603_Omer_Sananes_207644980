@@ -4,7 +4,9 @@
 
 
 ## :information_source: About 
-When we succeed in finding some time to hang out, we try to be spontaneous, but it's very difficult for us to decide where to go, and find the perfect match. the place that will suit our vibse, the music we like, will be close, or with the perfect happy hour we dream about. so, not any more, happy hour connects people and bars, and helps us to find our perfect place to hang out. 
+Squid Game is a South Korean survival drama television series created by Hwang Dong-hyuk for Netflix. 
+
+The series revolves around a contest where 456 players, all of whom are in deep financial hardship, risk their lives to play a series of deadly children's games for the chance to win a ₩45.6 billion (US$35 million, €33 million,) prize. 
 <br/>
 
 ## :space_invader: Methods
