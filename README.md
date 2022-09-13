@@ -29,6 +29,7 @@ The series revolves around a contest where 456 players, all of whom are in deep 
 - Close server (will close all the clients). 
 - The Server have a "listener" (Known as: Design Pattern 'Observer' or Callback), In the case a packet received the listener will get packets & errores from server's threads.
 <br/>
+
 <strong>Client:</strong>
 - Connect client to network.
 - Create 'get thread' for getting server packets.
