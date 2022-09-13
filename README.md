@@ -2,6 +2,8 @@
 <br/>
 <h1 align="center">Welcome To Squid-Game!</h1>
 
+---------------------------------------------------------------------------------------------------------------------
+
 ## :door: Project Requirements 
  - Devlop a Client Server infrastructure.
  - Choosing a subject for development which requires a multiple clients.
@@ -12,7 +14,6 @@
 <strong> Developing a game based on the doll scene from the squid games "Red Light Green Light" is the chosen subject. </strong> 
 <br/>
 
----------------------------------------------------------------------------------------------------------------------
 ## :information_source: About 
 Squid Game is a South Korean survival drama television series created by Hwang Dong-hyuk for Netflix. 
 
