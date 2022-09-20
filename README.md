@@ -60,11 +60,14 @@ The series revolves around a contest where 456 players, all of whom are in deep 
 
 ## :computer: Game Screens
 ###  Windows of both side (Client & Server)
-- Start page - Server defined how many players (clients) to create. 
-- Games log - information about all the games' results.
-- Setting page - On pressing "New Game" button the game will start with the connected clients if there isn't connected clients the Server return to the "start game" page.
+- Game page - 
+  Server responsible to switch the doll direction (back & front) and update all the clients about any scenario.
+  Client make his on movement, PC player move randomly, regular player move by a button and getting indication on the doll status by the circle color (green | red).
+- Waiting page - Get information about how many players have, and you can see all the registered clients, after all clients register the Server have the ability to start the game.
+- Error page - In case a error occured.
+<strong>- Each side has a unique functionalities.<strong/> 
 
-|Start page|Games log|Setting page|
+|Game page|Waiting page|Error page|
 |---|---|---|
 |<img src="games_screens/game.png" height="400" width="800" />|<img src="games_screens/waiting.png" height="400" width="800"/>|<img src="games_screens/error.png"  height="400" width="800"/>|
 
