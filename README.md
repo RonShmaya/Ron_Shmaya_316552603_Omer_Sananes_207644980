@@ -11,13 +11,11 @@
 
 <strong> Developing a game based on the doll scene from squid game (known as "Red Light Green Light") is the chosen subject. </strong> 
 <br/>
-
 ## :information_source: About 
 Squid Game is a South Korean survival drama television series created by Hwang Dong-hyuk for Netflix. 
 
 The series revolves around a contest where 456 players, all of whom are in deep financial hardship, risk their lives to play a series of deadly children's games for the chance to win a ₩45.6 billion (US$35 million, €33 million) prize. 
 <br/>
-
 ## :space_invader: Modules
 ### client_server.py 
 <strong>Server:</strong>
@@ -30,7 +28,6 @@ The series revolves around a contest where 456 players, all of whom are in deep 
 - Get the number of a "live clients".
 - The Server have a "listener" (Known as: Design Pattern 'Observer' or Callback), In the case a packet received the listener will get packets & errores from server's threads.
 <br/>
-
 <strong>Client:</strong>
 - Connect client to network.
 - Create 'get thread' for getting server packets.
@@ -38,27 +35,22 @@ The series revolves around a contest where 456 players, all of whom are in deep 
 - Close. 
 - The Client have a "listener" (Known as: Design Pattern 'Observer' or Callback), In the case a packet received the listener will get packets & errores from client's threads.
 <br/>
-
 ### page_view_manager.py
 - controlling on the user's window using tkinter library.
 - defining all the game's abstract frames.
 - managing the window frames switching.
 - contain all the GUI part of the project.
 <br/>
-
 ### data_manager.py
 - managing all the known data of the game.
 - defining all the messages the server & clients can send.
 <br/>
-
 ## ⚙️: Tools & Libraries
 - Tkinter - python library used for desktop GUI applications. 
 - socket - python library used for make a client server connection.
 - json - python library used for sending full classes data easily. 
 - threading - python library used for parallel programming. 
 <br/>
-
-
 ## :computer: Game Screens
 ### Server's windows.
 - Start page - Server defined how many players (clients) to create. 
