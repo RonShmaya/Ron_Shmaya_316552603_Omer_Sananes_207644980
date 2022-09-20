@@ -66,7 +66,7 @@ The series revolves around a contest where 456 players, all of whom are in deep 
 
 |Lottie animation|Authentication by google|Authentication by phone number|
 |---|---|---|
-|<img src="games_screens/server_start_page.png" />|<img src="games_screens/server_log.png"/>|<img src="games_screens/setting.png"/>|
+|<img src="games_screens/server_start_page.png" height="400" width="800" />|<img src="games_screens/server_log.png" height="400" width="800"/>|<img src="games_screens/setting.png"  height="400" width="800"/>|
 
 ### 💃 Private Account
 - Upload photos using Image Picker
