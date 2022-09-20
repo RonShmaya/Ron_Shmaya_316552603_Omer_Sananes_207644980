@@ -63,8 +63,9 @@ The series revolves around a contest where 456 players, all of whom are in deep 
 - Game page -<br/> 
   <strong>Server</strong> responsible to switch the doll direction (back & front) and update all the clients about any scenario.<br/>
   <strong>Client</strong> make his on movement, PC player move randomly, regular player move by a button and getting indication on the doll status by the circle color (green | red).
-- Waiting page - Get information about how many players have, and you can see all the registered clients, after all clients register the Server have the ability to start the game.
-- Error page - In case a error occured.<br/><br/>
+- Waiting page - Get information about how many players we have, you can see all the registered clients.
+after all clients register the Server have the ability to start the game.
+- Error page - In case a error occurred.<br/><br/>
 <strong> Each side has a unique functionalities.</strong>
 
 |Game page|Waiting page|Error page|
