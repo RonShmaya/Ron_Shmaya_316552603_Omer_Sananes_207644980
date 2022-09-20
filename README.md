@@ -64,7 +64,7 @@ The series revolves around a contest where 456 players, all of whom are in deep 
   <strong>Server</strong> responsible to switch the doll direction (back & front) and update all the clients about any scenario.<br/>
   <strong>Client</strong> make his on movement, PC player move randomly, regular player move by a button and getting indication on the doll status by the circle color (green | red).
 - Waiting page - Get information about how many players have, and you can see all the registered clients, after all clients register the Server have the ability to start the game.
-- Error page - In case a error occured.<br/>
+- Error page - In case a error occured.<br/><br/>
 <strong> Each side has a unique functionalities.</strong>
 
 |Game page|Waiting page|Error page|
@@ -81,22 +81,14 @@ The series revolves around a contest where 456 players, all of whom are in deep 
 |<img src="games_screens/server_start_page.png" height="400" width="800" />|<img src="games_screens/server_log.png" height="400" width="800"/>|<img src="games_screens/setting.png"  height="400" width="800"/>|
 
 ### Client's windows
-- Upload photos using Image Picker
-- Search engine
-- google maps - find location by address
-- Calender - you can get date or time from user
+- Results page - The game result, only for players who finished the game successfully.
+- Registration page - Player picking his username & avatar (regular player), other option is to submit PC player, the username & avatar will pick automatically.     
+- Lose page - The page appears in case the doll catch the specific player during the game, the page will destroyed after 3 minutes automatically.
 
-|Home page|Google maps|Search Engine|
+|Results page|Registration page|Lose page|
 |---|---|---|
-|<img src="https://media.giphy.com/media/1O7hkrPEDXVWsWwxBa/giphy.gif" alt="animated"/>|<img src="https://media.giphy.com/media/k5mfcFpYSpWRowsUpa/giphy.gif" alt="animated"/>|<img src="https://media.giphy.com/media/hcfXtHdeXM7fYXM8n6/giphy.gif" alt="animated"/>
+|<img src="games_screens/results.png" height="400" width="800" />|<img src="games_screens/registation.png" height="400" width="800"/>|<img src="games_screens/lose.png"  height="400" width="800"/>|
 
-|Make Review|Search page|Profile page|Reservation|
-|---|---|---|---|
-|<img src="https://media.giphy.com/media/ft3nsXBNr740EJZgYK/giphy.gif" alt="animated"/>|<img src="https://media.giphy.com/media/H9ywaDxnJ1SxwtmGXe/giphy.gif" alt="animated"/>|<img src="https://media.giphy.com/media/a14Z5ys9IKUy2jL7tn/giphy.gif" alt="animated"/>|<img src="https://media.giphy.com/media/r65IN7S5jU9YHX0DU8/giphy.gif" alt="animated"/>
 
-### 🍹: Business Account
-|Home page|Bar page|Tables & Ordres|
-|---|---|---|
-|<img src="https://media.giphy.com/media/5h9RTI05Hmv1iDACAh/giphy.gif" alt="animated"/>|<img src="https://media.giphy.com/media/0KvyBJgiodaxMQGhfh/giphy.gif" alt="animated"/>|<img src="https://media.giphy.com/media/mEC8JQBXxZIO5TpPWL/giphy.gif" alt="animated"/>|
 
 
