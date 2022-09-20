@@ -60,13 +60,13 @@ The series revolves around a contest where 456 players, all of whom are in deep 
 
 
 ## :computer: Game Screens
-### :calling: Login.
+### Server's windows.
 - lottie animation
 - fire base authentication & UI
 
 |Lottie animation|Authentication by google|Authentication by phone number|
 |---|---|---|
-|<img src="https://media.giphy.com/media/R4AJsqt466ysE6D1EO/giphy.gif" alt="animated"/>|<img src="https://media.giphy.com/media/MpQ2gxbeIiYzi7Wii3/giphy.gif" alt="animated"/>|<img src="https://media.giphy.com/media/GGxoOJNQOkKpMOoJW0/giphy.gif" alt="animated"/>|
+|<img src="games_screens/server_start_page.png" />|<img src="games_screens/server_log.png"/>|<img src="games_screens/setting.png"/>|
 
 ### 💃 Private Account
 - Upload photos using Image Picker
