@@ -19,7 +19,7 @@ The series revolves around a contest where 456 players, all of whom are in deep 
 <br/>
 
 ## :space_invader: Modules
-### client_server 
+### client_server.py 
 <strong>Server:</strong>
 - Create server.
 - Connect server to network.
@@ -39,23 +39,25 @@ The series revolves around a contest where 456 players, all of whom are in deep 
 - The Client have a "listener" (Known as: Design Pattern 'Observer' or Callback), In the case a packet received the listener will get packets & errores from client's threads.
 <br/>
 
----------------------------------------------------------------------------------------------------------------------
-### Business account
-- Create your own bars.
-- Upload posts.
-- Create tables.
-- See bar orders.
-- Update bar details.
+### page_view_manager.py
+- controlling on the user's window using tkinter library.
+- defining all the game's abstract frames.
+- managing the window frames switching.
+- contain all the GUI part of the project.
+<br/>
+
+### data_manager.py
+- managing all the known data of the game.
+- defining all the messages the server & clients can send.
+<br/>
 
 ## ⚙️: Tools & Libraries
-- Real Time Firebase - DB on cloud
-- Storage Firebase - upload photos & videos on cloud
-- Authentication Firbase - for making user with providers like phone and google
-- Google Maps
-- Glide - get photos from cloud Easily
-- Lottie - make your on animation 
-- Gson 
-- Image Picker for upload photos
+- Tkinter - python library used for desktop GUI applications. 
+- socket - python library used for make a client server connection.
+- json - python library used for sending full classes data easily. 
+- threading - python library used for parallel programming. 
+<br/>
+
 
 ## :iphone: App Screens
 ### :calling: Login
