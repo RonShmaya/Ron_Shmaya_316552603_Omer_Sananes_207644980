@@ -59,7 +59,7 @@ The series revolves around a contest where 456 players, all of whom are in deep 
 <br/>
 
 
-## :iphone: App Screens
+## :computer: Game Screens
 ### :calling: Login
 - lottie animation
 - fire base authentication & UI
