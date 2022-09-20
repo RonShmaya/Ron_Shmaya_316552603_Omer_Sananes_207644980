@@ -88,7 +88,7 @@ after all clients register the Server have the ability to start the game.
 
 |Results page|Registration page|Lose page|
 |---|---|---|
-|<img src="games_screens/results.png" height="400" width="800" />|<img src="games_screens/registation.png" height="400" width="800"/>|<img src="games_screens/lose.png"  height="400" width="800"/>|
+|<img src="games_screens/results.png" height="400" width="1000" />|<img src="games_screens/registation.png" height="400" width="1000"/>|<img src="games_screens/lose.png"  height="400" width="1000"/>|
 
 
 
