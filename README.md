@@ -57,8 +57,18 @@ The series revolves around a contest where 456 players, all of whom are in deep 
 - json - python library used for sending full classes data easily. 
 - threading - python library used for parallel programming. 
 <br/>
+
 ## :computer: Game Screens
-### Server's windows.
+###  Windows of both side (Client & Server)
+- Start page - Server defined how many players (clients) to create. 
+- Games log - information about all the games' results.
+- Setting page - On pressing "New Game" button the game will start with the connected clients if there isn't connected clients the Server return to the "start game" page.
+
+|Start page|Games log|Setting page|
+|---|---|---|
+|<img src="games_screens/game.png" height="400" width="800" />|<img src="games_screens/waiting.png" height="400" width="800"/>|<img src="games_screens/error.png"  height="400" width="800"/>|
+
+### Server's windows
 - Start page - Server defined how many players (clients) to create. 
 - Games log - information about all the games' results.
 - Setting page - On pressing "New Game" button the game will start with the connected clients if there isn't connected clients the Server return to the "start game" page.
@@ -67,7 +77,7 @@ The series revolves around a contest where 456 players, all of whom are in deep 
 |---|---|---|
 |<img src="games_screens/server_start_page.png" height="400" width="800" />|<img src="games_screens/server_log.png" height="400" width="800"/>|<img src="games_screens/setting.png"  height="400" width="800"/>|
 
-### 💃 Private Account
+### Client's windows
 - Upload photos using Image Picker
 - Search engine
 - google maps - find location by address
