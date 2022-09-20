@@ -61,10 +61,11 @@ The series revolves around a contest where 456 players, all of whom are in deep 
 
 ## :computer: Game Screens
 ### Server's windows.
-- lottie animation
-- fire base authentication & UI
+- Start page - Server defined how many players (clients) to create. 
+- Games log - information about all the games' results.
+- Setting page - On pressing "New Game" button the game will start with the connected clients if there isn't connected clients the Server return to the "start game" page.
 
-|Lottie animation|Authentication by google|Authentication by phone number|
+|Start page|Games log|Setting page|
 |---|---|---|
 |<img src="games_screens/server_start_page.png" height="400" width="800" />|<img src="games_screens/server_log.png" height="400" width="800"/>|<img src="games_screens/setting.png"  height="400" width="800"/>|
 
